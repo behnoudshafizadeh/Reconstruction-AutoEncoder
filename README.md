@@ -25,7 +25,7 @@ python train_conv_autoencoder.py
 
 > ![test](https://user-images.githubusercontent.com/53394692/111040017-614dd500-8446-11eb-8d9d-883ee4ba9aa8.PNG)
 
-##finlaly
+## finally
 > see the improvements in results of object detection task after applying reconstruction,in below:
 
 |              | object detection | 
