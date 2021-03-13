@@ -20,5 +20,6 @@ python train_conv_autoencoder.py
 > * see the results of train/validation accuracy in below chart:
 ![result](https://user-images.githubusercontent.com/53394692/111039583-0ca95a80-8444-11eb-873e-9607e24b86f3.png)
 > * after ending training,the weights file with `.model` saved in your directory,for testing procedure.
-> * for testing procedure,set iamges in `test` directory and change directory path use the `pred-autoencoder.ipynb` and `.model` weight file and run it cell by cell,basis on jupyter notebook.
+> * for testing procedure,set iamges in `test` directory and change directory path `path1` basis on your directory , use the `pred-autoencoder.ipynb` and `.model` weight file and run it cell by cell,basis on jupyter notebook.
 > * after testing ,see the reconstruction result as below:
+> * ![test](https://user-images.githubusercontent.com/53394692/111040017-614dd500-8446-11eb-8d9d-883ee4ba9aa8.PNG)
