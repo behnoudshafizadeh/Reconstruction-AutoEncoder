@@ -24,3 +24,12 @@ python train_conv_autoencoder.py
 > * after testing ,see the reconstruction result as below in `.png` file:
 
 > ![test](https://user-images.githubusercontent.com/53394692/111040017-614dd500-8446-11eb-8d9d-883ee4ba9aa8.PNG)
+
+##finlaly
+> see the improvements in results of object detection task after applying reconstruction,in below:
+
+|              | object detection | 
+| -----------  | -------- | 
+| before autoencoder   | ![distort](https://user-images.githubusercontent.com/53394692/111040676-66605380-8449-11eb-955c-d3aacf3119f8.PNG) | 
+| after autoencoder   |  ![correct](https://user-images.githubusercontent.com/53394692/111040687-75470600-8449-11eb-8f8d-97ffa1aeff9c.PNG) | 
+
