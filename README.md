@@ -22,4 +22,5 @@ python train_conv_autoencoder.py
 > * after ending training,the weights file with `.model` saved in your directory,for testing procedure.
 > * for testing procedure,set iamges in `test` directory and change directory path `path1` basis on your directory , use the `pred-autoencoder.ipynb` and `.model` weight file and run it cell by cell,basis on jupyter notebook.
 > * after testing ,see the reconstruction result as below in `.png` file:
-> * ![test](https://user-images.githubusercontent.com/53394692/111040017-614dd500-8446-11eb-8d9d-883ee4ba9aa8.PNG)
+
+> ![test](https://user-images.githubusercontent.com/53394692/111040017-614dd500-8446-11eb-8d9d-883ee4ba9aa8.PNG)
