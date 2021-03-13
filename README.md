@@ -20,3 +20,5 @@ python train_conv_autoencoder.py
 > * see the results of train/validation accuracy in below chart:
 ![result](https://user-images.githubusercontent.com/53394692/111039583-0ca95a80-8444-11eb-873e-9607e24b86f3.png)
 > * after ending training,the weights file with `.model` saved in your directory,for testing procedure.
+> * for testing procedure,use the `pred-autoencoder.ipynb` and `.model` weight file and run it cell by cell,basis on jupyter notebook.
+> * after testing ,see the reconstruction result as below:
